@@ -1,13 +1,11 @@
 # Introduction 
-
-TODO
+This project includes the models and API methods for interacting with the Voicify CMS API for JavaScript and TypeScript.
 
 # Getting Started
 
 TODO
 
 # Build and Test
-This project contains core models for all Voicify integrations including API models and other custom models.
 There are some steps to autogenerate the TypeScript models from the swagger API models that Voicify outputs.
 
 ## Generate Models from Swagger
@@ -16,4 +14,18 @@ Sample:
 
 ```
 java -jar swagger-codegen-cli.jar generate -i http://cms.voicify.com/swagger/v1/swagger.json -l typescript-node -c ../typescript-options.json -o ../../src/generated
+```
+
+## Build output
+
+Navigate to the generated folder where the package.json is and run:
+
+```
+npm install
+```
+
+then
+
+```
+npm run build
 ```
