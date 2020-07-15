@@ -1,3 +1,4 @@
 {
-    "npmName" : "@voicify/voicify-sdk-cms"
+    "npmName" : "@voicify/voicify-sdk-cms",
+    "supportsES6": true
 }

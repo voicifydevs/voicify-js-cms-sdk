@@ -2,7 +2,7 @@
     "name": "@voicify/voicify-sdk-cms",
     "version": "1.0.0",
     "description": "NodeJS client for @voicify/voicify-sdk-cms",
-    "repository": "",
+    "repository": "GIT_USER_ID/GIT_REPO_ID",
     "main": "api.js",
     "types": "api.d.ts",
     "scripts": {
@@ -10,8 +10,8 @@
         "build": "tsc",
         "test": "npm run build && node client.js"
     },
-    "author": "Voicify",
-    "license": "Apache 2.0",
+    "author": "Swagger Codegen Contributors",
+    "license": "Unlicense",
     "dependencies": {
         "bluebird": "^3.5.0",
         "request": "^2.81.0",
