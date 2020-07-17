@@ -62,6 +62,4 @@ typings/
 
 
 # ignore output files
-api.js
-api.d.ts
-api.js.map
+**/dist
