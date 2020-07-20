@@ -1,8 +1,8 @@
 {
   "name": "@voicify/voicify-sdk-cms",
-  "version": "1.0.0",
-  "description": "swagger client for @voicify/voicify-sdk-cms",
-  "author": "Swagger Codegen Contributors",
+  "version": "1.0.1",
+  "description": "Generated client for the Voicify CMS",
+  "author": "Voicify",
   "keywords": [
     "fetch",
     "typescript",
