@@ -18,7 +18,7 @@ Each service has its own API class, factory, or functional composer to use in or
 
 Currently, you'll need to authenticate an API user against your Voicify organization to get an Access token to start making requests against the API.
 
-To do this, you can create a new `AuthenticationApi` client and then send a request to authenticate your API account:a
+To do this, you can create a new `AuthenticationApi` client and then send a request to authenticate your API account:
 
 ```typeScript
 var authClient = new AuthenticationApi({basePath: "https://cms.voicify.com"});
