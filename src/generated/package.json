@@ -1,6 +1,6 @@
 {
   "name": "@voicify/voicify-sdk-cms",
-  "version": "1.0.1",
+  "version": "2.2.0",
   "description": "Generated client for the Voicify CMS",
   "author": "Voicify",
   "keywords": [

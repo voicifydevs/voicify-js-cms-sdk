@@ -23427,7 +23427,6 @@ export const AuthenticationApiFetchParamCreator = function (configuration?: Conf
         },
     }
 };
-
 /**
  * AuthenticationApi - functional programming interface
  * @export
